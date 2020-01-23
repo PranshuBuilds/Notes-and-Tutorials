@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "310672149363",
+    "firebase_url": "https://notes-a9473.firebaseio.com",
+    "project_id": "notes-a9473",
+    "storage_bucket": "notes-a9473.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310672149363:android:f2ad3348cf9ac201c4d306",
+        "android_client_info": {
+          "package_name": "com.crazy.notesandtutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310672149363-miu58agvm5u8buh6gjndltin9aa9g7qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF-L9rqMJOHang871DPVQ-ldyUPi51lgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310672149363-miu58agvm5u8buh6gjndltin9aa9g7qd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
