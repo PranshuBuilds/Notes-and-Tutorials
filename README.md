@@ -1,6 +1,6 @@
 # Notes-and-Tutorials
 Taking notes as a pdf format through firebase database where we download it or read the pdf from the app itself
-### Use of MVVM Architecture for fast and smooth pacing of app
+### Use of MVVM Architecture with Firebase integrated for fast and smooth pacing and data retrieving of app
 
 ## First tab
 <img src="https://user-images.githubusercontent.com/58212835/73134176-9ab45d00-4059-11ea-9009-29e768d82af8.png" height="400">
