@@ -21,4 +21,8 @@ Use of Retrofit api and Gson parsing
 <img src="https://user-images.githubusercontent.com/58212835/73134179-9b4cf380-4059-11ea-9c68-e4d32eadd096.png" height="400">
 An offline quiz with multiple option of playing like Hard , medium , easy to choose 
 Use of SQLite data base to create the option Questions and add data in the quiz
+
+
 You can fill up your own questions and their answers :)
+
+You can also create your own firebase connection for daily updates and news and the download links available
